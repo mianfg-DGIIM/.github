@@ -93,7 +93,7 @@ Correspondiente al curso **2019/2020**.
 | --- | --- | --- | --- | --- |
 | `EDI` | **Ecuaciones Diferenciales I** | Matemáticas | Matemática Aplicada | ![NO REPO](https://img.shields.io/badge/-NO%20REPO-red) |
 | `FBD` | **Fundamentos de Bases de Datos** | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial | ![NO REPO](https://img.shields.io/badge/-NO%20REPO-red) |
-| [`FR`](https://github.com/mianfg-DGIIM/FR) | [**Fundamentos de Redes**](https://github.com/mianfg-DGIIM/FR) | Ingeniería Informática | Teoría de la Señal, Telemática y Telecomunicaciones | ![NO REPO](https://img.shields.io/badge/-NO%20REPO-red) |
+| [`FR`](https://github.com/mianfg-DGIIM/FR) | [**Fundamentos de Redes**](https://github.com/mianfg-DGIIM/FR) | Ingeniería Informática | Teoría de la Señal, Telemática y Telecomunicaciones | ![DONE](https://img.shields.io/badge/-DONE-green) |
 | `MC` | **Modelos de Computación** | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial | ![NO REPO](https://img.shields.io/badge/-NO%20REPO-red) |
 | `PROB` | **Probabilidad** | Matemáticas | Estadística e Investigación Operativa | ![NO REPO](https://img.shields.io/badge/-NO%20REPO-red) |
 | [`SCD`](https://github.com/mianfg-DGIIM/SCD) | [**Sistemas Concurrentes y Distribuidos**](https://github.com/mianfg-DGIIM/SCD) | Ingeniería Informática | Lenguajes y Sistemas Informáticos | ![DONE](https://img.shields.io/badge/-DONE-green) |
@@ -119,7 +119,7 @@ Correspondiente al curso **2020/2021**.
 | --- | --- | --- | --- | --- |
 | `AF` | **Análisis Funcional** | Matemáticas | Análisis Matemático | ![NO REPO](https://img.shields.io/badge/-NO%20REPO-red) |
 | `ALGIII` | **Álgebra III** | Matemáticas | Álgebra | ![NO REPO](https://img.shields.io/badge/-NO%20REPO-red) |
-| [`DDSI`](https://github.com/mianfg-DGIIM/DDSI) | [**Diseño y Desarrollo de Sistemas de Información**](https://github.com/mianfg-DGIIM/DDSI) | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial | ![NO REPO](https://img.shields.io/badge/-NO%20REPO-red) |
+| [`DDSI`](https://github.com/mianfg-DGIIM/DDSI) | [**Diseño y Desarrollo de Sistemas de Información**](https://github.com/mianfg-DGIIM/DDSI) | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial | ![DONE](https://img.shields.io/badge/-DONE-green) |
 | `IE` | **Inferencia Estadística** | Matemáticas | Estadística e Ingestigación Operativa | ![NO REPO](https://img.shields.io/badge/-NO%20REPO-red) |
 | [`IG`](https://github.com/mianfg-DGIIM/IG) | [**Informática Gráfica**](https://github.com/mianfg-DGIIM/IG) | Ingeniería Informática | Lenguajes y Sistemas Informáticos | ![NO REPO](https://img.shields.io/badge/-NO%20REPO-red) |
 | `TOPII` | **Topología II** | Matemáticas | Geometría y Topología | ![NO REPO](https://img.shields.io/badge/-NO%20REPO-red) |
@@ -148,7 +148,7 @@ Correspondiente al curso **2021/2022**.
 | Abbr. | Nombre de asignatura | Grado | Departamento | Curso (cuat.) | Fase |
 | --- | --- | --- | --- | --- | --- |
 | [`AA`](https://github.com/mianfg-DGIIM/AA) | [**Aprendizaje Automático**](https://github.com/mianfg-DGIIM/AA) | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial | 2020/2021 (C2) | ![PENDING](https://img.shields.io/badge/-PENDING-yellow) |
-| [`ECOMP`](https://github.com/mianfg-DGIIM/ECOMP) | [**Estadística Computacional**](https://github.com/mianfg-DGIIM/ECOMP) | Matemáticas | Estadística e Investigación Operativa | 2021/2022 (C1) | ![NO REPO](https://img.shields.io/badge/-NO%20REPO-red) |
+| [`ECOMP`](https://github.com/mianfg-DGIIM/ECOMP) | [**Estadística Computacional**](https://github.com/mianfg-DGIIM/ECOMP) | Matemáticas | Estadística e Investigación Operativa | 2021/2022 (C2) | ![DONE](https://img.shields.io/badge/-DONE-green) |
 | [`IN`](https://github.com/mianfg-DGIIM/IN) | [**Inteligencia de Negocio**](https://github.com/mianfg-DGIIM/IN) | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial | 2021/2022 (C1) | ![DONE](https://img.shields.io/badge/-DONE-green) |
 | `MAC` | **Modelos Avanzados de Computación** | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial | 2020/2021 (C2) | ![NO REPO](https://img.shields.io/badge/-NO%20REPO-red) |
 | [`NPI`](https://github.com/mianfg-DGIIM/NPI) | [**Nuevos Paradigmas de Interacción**](https://github.com/mianfg-DGIIM/NPI) | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial | 2021/2022 (C1) | ![DONE](https://img.shields.io/badge/-DONE-green) |
