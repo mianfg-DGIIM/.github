@@ -26,10 +26,12 @@ Los repositorios se encuentran en tres fases:
 	* [Segundo cuatrimestre](#segundo-cuatrimestre-2)
 * [Cuarto curso](#cuarto-curso)
 	* [Primer cuatrimestre](#primer-cuatrimestre-3)
-	* [Segundo cuatrimestre](#segundo-cuatrimestre-4)
+	* [Segundo cuatrimestre](#segundo-cuatrimestre-3)
 * [Quinto curso](#quinto-curso)
-	* [Segundo cuatrimestre](#segundo-cuatrimestre-5)
+	* [Segundo cuatrimestre](#segundo-cuatrimestre-4)
 * [Optativas](#optativas)
+* [Trabajo de Fin de Grado](#trabajo-de-fin-de-grado)
+
 
 ### Primer curso
 
@@ -141,7 +143,6 @@ Correspondiente al curso **2021/2022**.
 | Abbr. | Nombre de asignatura | Grado | Departamento | Fase |
 | --- | --- | --- | --- | --- |
 | `IES` | **Ingeniería, Empresa y Sociedad** | Ingeniería Informática | Organización de Empresas II | ![NO REPO](https://img.shields.io/badge/-NO%20REPO-red) |
-| [`TFG`](https://github.com/mianfg-DGIIM/TFG) | [**Trabajo de Fin de Grado**](https://github.com/mianfg-DGIIM/TFG) |  |  | ![PENDING](https://img.shields.io/badge/-PENDING-yellow) |
 
 ### Optativas
 
@@ -159,3 +160,8 @@ Correspondiente al curso **2021/2022**.
 | `TGT` | **Taller de Geometría y Topología** | Matemáticas | Geometría y Topología | 2021/2022 (C1) | ![NO REPO](https://img.shields.io/badge/-NO%20REPO-red) |
 | [`VC`](https://github.com/mianfg-DGIIM/VC) | [**Visión por Computador**](https://github.com/mianfg-DGIIM/VC) | Ingeniería Informática | Ciencias de la Computación e Inteligencia Artificial | 2021/2022 (C1) | ![DONE](https://img.shields.io/badge/-DONE-green) |
 
+### Trabajo de Fin de Grado
+
+| Abbr. | Nombre de asignatura | Curso | Fase |
+| --- | --- | --- | --- |
+| [`TFG`](https://github.com/mianfg-DGIIM/TFG) | [**Trabajo de Fin de Grado**](https://github.com/mianfg-DGIIM/TFG) | 2022/2023 | ![PENDING](https://img.shields.io/badge/-PENDING-yellow) |
