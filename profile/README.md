@@ -164,4 +164,4 @@ Correspondiente al curso **2021/2022**.
 
 | Abbr. | Nombre de asignatura | Curso | Fase |
 | --- | --- | --- | --- |
-| [`TFG`](https://github.com/mianfg-DGIIM/TFG) | [**Trabajo de Fin de Grado**](https://github.com/mianfg-DGIIM/TFG) | 2022/2023 | ![PENDING](https://img.shields.io/badge/-PENDING-yellow) |
+| [`TFG`](https://github.com/mianfg-DGIIM/TFG) | [**Trabajo de Fin de Grado**](https://github.com/mianfg-DGIIM/TFG) | 2022/2023 | ![DONE](https://img.shields.io/badge/-DONE-green) |
